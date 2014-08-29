@@ -1,4 +1,4 @@
 newsreader
 ==========
 
-Newsreader
+Newington Newsreader 
